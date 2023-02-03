@@ -1,0 +1,1046 @@
+[
+  {
+    "key": 1,
+    "name": "SUL - ESCOLA ESTADUAL CARVALHO LEAL"
+  },
+  {
+    "key": 2,
+    "name": "SUL - ESCOLA ESTADUAL CONEGO AZEVEDO"
+  },
+  {
+    "key": 3,
+    "name": "SUL - ESCOLA ESTADUAL DIOFANTO VIEIRA MONTEIRO"
+  },
+  {
+    "key": 4,
+    "name": "SUL - ESCOLA ESTADUAL FARIAS BRITTO"
+  },
+  {
+    "key": 5,
+    "name": "SUL - ESCOLA ESTADUAL HERMENEGILDO DE CAMPOS"
+  },
+  {
+    "key": 6,
+    "name": "SUL - ESCOLA ESTADUAL LUIZINHA NASCIMENTO"
+  },
+  {
+    "key": 7,
+    "name": "SUL - ESCOLA ESTADUAL PADRE AGOSTINHO MARTIN"
+  },
+  {
+    "key": 8,
+    "name": "SUL - ESCOLA ESTADUAL SANTA LUZIA"
+  },
+  {
+    "key": 9,
+    "name": "SUL - ESCOLA ESTADUAL ADALBERTO VALE"
+  },
+  {
+    "key": 10,
+    "name": "SUL - ESCOLA ESTADUAL ALFREDO CAMPOS"
+  },
+  {
+    "key": 11,
+    "name": "SUL - ESCOLA ESTADUAL BOM PASTOR"
+  },
+  {
+    "key": 12,
+    "name": "SUL - ESCOLA ESTADUAL ISAAC BENZECRY"
+  },
+  {
+    "key": 13,
+    "name": "SUL - ESCOLA ESTADUAL J G ARAÚJO"
+  },
+  {
+    "key": 14,
+    "name": "SUL - ESCOLA ESTADUAL LEOPOLDO NEVES"
+  },
+  {
+    "key": 15,
+    "name": "SUL - ESCOLA ESTADUAL LUCINDA FELIX DE AZEVEDO"
+  },
+  {
+    "key": 16,
+    "name": "SUL - ESCOLA ESTADUAL MACHADO DE ASSIS"
+  },
+  {
+    "key": 17,
+    "name": "SUL - ESCOLA ESTADUAL MADRE TEREZA DE CALCUTA"
+  },
+  {
+    "key": 18,
+    "name": "SUL - ESCOLA ESTADUAL MAJOR SILVA COUTINHO"
+  },
+  {
+    "key": 19,
+    "name": "SUL - ESCOLA ESTADUAL MILBURGES ARAUJO"
+  },
+  {
+    "key": 20,
+    "name": "SUL - ESCOLA ESTADUAL MONTEIRO DE SOUZA"
+  },
+  {
+    "key": 21,
+    "name": "SUL - ESCOLA ESTADUAL NOSSA SENHORA DA DIVINA PROVIDENCIA"
+  },
+  {
+    "key": 22,
+    "name": "SUL - ESCOLA ESTADUAL PAULA ANGELA FRASSINETTI"
+  },
+  {
+    "key": 23,
+    "name": "SUL - ESCOLA ESTADUAL PROFESSORA JACIMAR DA SILVA GAMA"
+  },
+  {
+    "key": 24,
+    "name": "SUL - ESCOLA ESTADUAL PROFESSORA ROXANA PEREIRA BONESSI"
+  },
+  {
+    "key": 25,
+    "name": "SUL - ESCOLA ESTADUAL SENADOR CUNHA MELO"
+  },
+  {
+    "key": 26,
+    "name": "OESTE - ESCOLA ESTADUAL GONÇALVES DIAS"
+  },
+  {
+    "key": 27,
+    "name": "OESTE - ESCOLA ESTADUAL JOSEPHINA DE MELO"
+  },
+  {
+    "key": 28,
+    "name": "OESTE - ESCOLA ESTADUAL PROFª ADELAIDE TAVARES DE MACEDO"
+  },
+  {
+    "key": 29,
+    "name": "OESTE - ESCOLA ESTADUAL TEREZA DE JESUS AZEVEDO DE VASCONCELOS DIAS"
+  },
+  {
+    "key": 30,
+    "name": "SUL - ESCOLA ESTADUAL JOSE BENTES MONTEIRO"
+  },
+  {
+    "key": 31,
+    "name": "SUL - ESCOLA ESTADUAL SIMON BOLIVAR"
+  },
+  {
+    "key": 32,
+    "name": "OESTE - ESCOLA ESTADUAL AGNELLO BITTENCOURT"
+  },
+  {
+    "key": 33,
+    "name": "OESTE - ESCOLA ESTADUAL ANTONIO ENCARNAÇÃO FILHO"
+  },
+  {
+    "key": 34,
+    "name": "OESTE - ESCOLA ESTADUAL DUQUE DE CAXIAS"
+  },
+  {
+    "key": 35,
+    "name": "OESTE - ESCOLA ESTADUAL IRMA ADONAI POLITI"
+  },
+  {
+    "key": 36,
+    "name": "OESTE - ESCOLA ESTADUAL JOANNA RODRIGUES VIEIRA"
+  },
+  {
+    "key": 37,
+    "name": "OESTE - ESCOLA ESTADUAL PROF JOSE RIBAMAR DA COSTA"
+  },
+  {
+    "key": 38,
+    "name": "OESTE - ESCOLA ESTADUAL SÃO LUIZ DE GONZAGA"
+  },
+  {
+    "key": 39,
+    "name": "OESTE - ESCOLA ESTADUAL SENADOR FLAVIO DA COSTA BRITO"
+  },
+  {
+    "key": 40,
+    "name": "OESTE - ESCOLA ESTADUAL ZULMIRA BITTENCOURT"
+  },
+  {
+    "key": 41,
+    "name": "LESTE - ESCOLA ESTADUAL GILBERTO MESTRINHO"
+  },
+  {
+    "key": 42,
+    "name": "LESTE - ESCOLA ESTADUAL MANUEL ANTONIO DE SOUZA"
+  },
+  {
+    "key": 43,
+    "name": "LESTE - ESCOLA ESTADUAL PADRE LUIS RUAS"
+  },
+  {
+    "key": 44,
+    "name": "LESTE - ESCOLA ESTADUAL PROF ANTONIO MAURITY MONTEIRO COELHO"
+  },
+  {
+    "key": 45,
+    "name": "LESTE - ESCOLA ESTADUAL PROFA MYRTHES MARQUES TRIGUEIRO"
+  },
+  {
+    "key": 46,
+    "name": "LESTE - ESCOLA ESTADUAL PROFº JORGE KARAM NETO"
+  },
+  {
+    "key": 47,
+    "name": "LESTE - ESCOLA ESTADUAL VASCO VASQUES"
+  },
+  {
+    "key": 48,
+    "name": "NORTE - E.E. OSMAR PEDROSA"
+  },
+  {
+    "key": 49,
+    "name": "NORTE - ESCOLA ESTADUAL CID CABRAL DA SILVA"
+  },
+  {
+    "key": 50,
+    "name": "NORTE - ESCOLA ESTADUAL DR JOSE MILTON BANDEIRA"
+  },
+  {
+    "key": 51,
+    "name": "NORTE - ESCOLA ESTADUAL ELIRA PINHEIRO"
+  },
+  {
+    "key": 52,
+    "name": "NORTE - ESCOLA ESTADUAL SENADOR JEFFERSON CARPINTEIRO PERES"
+  },
+  {
+    "key": 53,
+    "name": "NORTE - E.E. DORVAL VARELA MOURA"
+  },
+  {
+    "key": 54,
+    "name": "NORTE - E.E. TEREZA SIQUEIRA TUPINAMBÁ"
+  },
+  {
+    "key": 55,
+    "name": "NORTE - EETI DRA ZILDA ARNS NEUMANN"
+  },
+  {
+    "key": 56,
+    "name": "NORTE - EETI JOAO DOS SANTOS BRAGA"
+  },
+  {
+    "key": 57,
+    "name": "NORTE - ESCOLA ESTADUAL ARLINDO VIEIRA DOS SANTOS"
+  },
+  {
+    "key": 58,
+    "name": "NORTE - ESCOLA ESTADUAL DRA ZILDA ARNS NEUMANN"
+  },
+  {
+    "key": 59,
+    "name": "NORTE - ESCOLA ESTADUAL ELIANA SOCORRO PACHECO BRAGA"
+  },
+  {
+    "key": 60,
+    "name": "NORTE - ESCOLA ESTADUAL PROFª ELIANA DE FREITAS MORAIS"
+  },
+  {
+    "key": 61,
+    "name": "NORTE - ESCOLA ESTADUAL SAMUEL BENCHIMOL"
+  },
+  {
+    "key": 62,
+    "name": "NORTE - CMEI ARGENTINA BARROS"
+  },
+  {
+    "key": 63,
+    "name": "NORTE - CMEI PROF ROZENDO NETO DE LIMA"
+  },
+  {
+    "key": 64,
+    "name": "NORTE - CMEI PROFª RITA FONSECA VELOSO"
+  },
+  {
+    "key": 65,
+    "name": "NORTE - CMEI PROFª ROSSANA DA SILVA GADELHA"
+  },
+  {
+    "key": 66,
+    "name": "NORTE - CMEI PROFª SANTINA CASTRO PEREIRA"
+  },
+  {
+    "key": 67,
+    "name": "NORTE - CMEI ROSIRA DOS SANTOS MONTEIRO"
+  },
+  {
+    "key": 68,
+    "name": "NORTE - CRECHE MUL MARIA DO PERPÉTUO SOCORRO TRINDADE P. SENA"
+  },
+  {
+    "key": 69,
+    "name": "NORTE - CRECHE MUL MARIA FERREIRA BERNARDES"
+  },
+  {
+    "key": 70,
+    "name": "NORTE - CRECHE MUL PROFª DALVINA DO NASCIMENTO MARTINS"
+  },
+  {
+    "key": 71,
+    "name": "NORTE - E.M. PROFª JARLECE DA CONCEIÇÃO ZARANZA"
+  },
+  {
+    "key": 72,
+    "name": "NORTE - EM ALMERON CAMINHA MONTEIRO"
+  },
+  {
+    "key": 73,
+    "name": "NORTE - EM ANTISTHENES DE OLIVEIRA PINTO"
+  },
+  {
+    "key": 74,
+    "name": "NORTE - EM DEPUTADO ULISSES GUIMARÃES"
+  },
+  {
+    "key": 75,
+    "name": "NORTE - EM DJALMA PASSOS"
+  },
+  {
+    "key": 76,
+    "name": "NORTE - EM DOUTOR ADERSON PEREIRA DUTRA"
+  },
+  {
+    "key": 77,
+    "name": "NORTE - EM DOUTOR JOAO QUEIROZ"
+  },
+  {
+    "key": 78,
+    "name": "NORTE - EM GOVERNADOR EDUARDO RIBEIRO"
+  },
+  {
+    "key": 79,
+    "name": "NORTE - EM IRMÃ ZENIR DE CASTRO ALVES"
+  },
+  {
+    "key": 80,
+    "name": "NORTE - EM MARIO DE ANDRADE"
+  },
+  {
+    "key": 81,
+    "name": "NORTE - EM MIGUEL ARRAES DE ALENCAR"
+  },
+  {
+    "key": 82,
+    "name": "NORTE - EM OLGA FIGUEIREDO"
+  },
+  {
+    "key": 83,
+    "name": "NORTE - EM PROF JULIO CESAR DE MORAES PASSOS"
+  },
+  {
+    "key": 84,
+    "name": "NORTE - EM PROF ROBERTO DA SILVA PEIXOTO"
+  },
+  {
+    "key": 85,
+    "name": "NORTE - EM PROFª IVONE MARIA BARBOSA E SILVA"
+  },
+  {
+    "key": 86,
+    "name": "NORTE - EM PROFª LEA ALENCAR ANTONY"
+  },
+  {
+    "key": 87,
+    "name": "NORTE - EM RAUL DE QUEIROZ DE MENEZES VEIGA"
+  },
+  {
+    "key": 88,
+    "name": "NORTE - EM SANTA RITA DE CÁSSIA"
+  },
+  {
+    "key": 89,
+    "name": "NORTE - EM SENADOR DARCY RIBEIRO"
+  },
+  {
+    "key": 90,
+    "name": "SUL - CMEI PADRE PEDRO GABRIEL DE O NETO"
+  },
+  {
+    "key": 91,
+    "name": "LESTE - CMEI ABELHINHA"
+  },
+  {
+    "key": 92,
+    "name": "LESTE - CMEI FATIMA MACIEL DA COSTA"
+  },
+  {
+    "key": 93,
+    "name": "LESTE - CMEI FLAVIO EMANUEL ESPIRITO SANTO JUNIOR"
+  },
+  {
+    "key": 94,
+    "name": "LESTE - CMEI POETA MANUEL BANDEIRA"
+  },
+  {
+    "key": 95,
+    "name": "LESTE - CRECHE MUL MANUEL OCTAVIO RODRIGUES SOUZA"
+  },
+  {
+    "key": 96,
+    "name": "LESTE - EM ANITA GARIBALDI"
+  },
+  {
+    "key": 97,
+    "name": "LESTE - EM ANTONINA BORGES DE AS"
+  },
+  {
+    "key": 98,
+    "name": "LESTE - EM BEM-TE-VI"
+  },
+  {
+    "key": 99,
+    "name": "LESTE - EM BOA ESPERANCA"
+  },
+  {
+    "key": 100,
+    "name": "LESTE - EM CAROLINA PEROLINA RAIMUNDA ALMEIDA"
+  },
+  {
+    "key": 101,
+    "name": "LESTE - EM ESCRITOR ANISIO TEIXEIRA"
+  },
+  {
+    "key": 102,
+    "name": "LESTE - EM ETELVINA PEREIRA BRAGA"
+  },
+  {
+    "key": 103,
+    "name": "LESTE - EM FRANCISCA MENDES"
+  },
+  {
+    "key": 104,
+    "name": "LESTE - EM JOAO DOS SANTOS BRAGA"
+  },
+  {
+    "key": 105,
+    "name": "LESTE - EM LEONOR UCHOA DE AMORIM"
+  },
+  {
+    "key": 106,
+    "name": "LESTE - EM NOVA VIDA"
+  },
+  {
+    "key": 107,
+    "name": "LESTE - EM PEQUENO PRINCIPE"
+  },
+  {
+    "key": 108,
+    "name": "LESTE - EM PROF AGENOR FERREIRA DE LIMA"
+  },
+  {
+    "key": 109,
+    "name": "LESTE - EM PROF DAVISON DE ARAUJO PEREIRA"
+  },
+  {
+    "key": 110,
+    "name": "LESTE - EM PROF RAIMUNDO GONÇALVES NOGUEIRA"
+  },
+  {
+    "key": 111,
+    "name": "LESTE - EM PROFª MARIA RODRIGUES TAPAJOS"
+  },
+  {
+    "key": 112,
+    "name": "LESTE - EM PROFª REGINA VITORIA PIRES MUNIZ"
+  },
+  {
+    "key": 113,
+    "name": "LESTE - EM RAIMUNDA BARROSO RAMIRES"
+  },
+  {
+    "key": 114,
+    "name": "LESTE - EM RAIMUNDO NONATO DE OLIVEIRA GOMES"
+  },
+  {
+    "key": 115,
+    "name": "NORTE - EM DOM LUIZ SOARES VIEIRA"
+  },
+  {
+    "key": 116,
+    "name": "LESTE - ESCOLA VOCACIONAL MASROUR"
+  },
+  {
+    "key": 117,
+    "name": "LESTE - CENTRO MUL EDUC INF MARIA EMILIA MESTRINHO"
+  },
+  {
+    "key": 118,
+    "name": "LESTE - CMEI PROFª ADELAÍDE BESSA WANDERLEY"
+  },
+  {
+    "key": 119,
+    "name": "LESTE - CMEI PROFª MARIA AMELIA TAVARES LOPES"
+  },
+  {
+    "key": 120,
+    "name": "LESTE - CMEI SANTA TEREZINHA DO MENINO JESUS"
+  },
+  {
+    "key": 121,
+    "name": "LESTE - CMEI TANCREDO NEVES"
+  },
+  {
+    "key": 122,
+    "name": "LESTE - CRECHE MUL MARIA APARECIDA SILVA DANTAS"
+  },
+  {
+    "key": 123,
+    "name": "LESTE - CRECHE MUL MARIA LUIZA DA CONCEIÇÃO SILVA"
+  },
+  {
+    "key": 124,
+    "name": "LESTE - CRECHE MUL PROFª VIRGINIA MARILIA MELLO DE ARAUJO"
+  },
+  {
+    "key": 125,
+    "name": "LESTE - E. MUNICIPAL VIOLETA DE MATOS AREOSA"
+  },
+  {
+    "key": 126,
+    "name": "LESTE - EM ARTHUR ENGRÁCIO DA SILVA"
+  },
+  {
+    "key": 127,
+    "name": "LESTE - EM CORONEL JORGE TEIXEIRA DE OLIVEIRA"
+  },
+  {
+    "key": 128,
+    "name": "LESTE - EM DIVINO PIMENTA FALEIROS"
+  },
+  {
+    "key": 129,
+    "name": "LESTE - EM DOUTOR OLAVO DAS NEVES"
+  },
+  {
+    "key": 130,
+    "name": "LESTE - EM DOUTOR PAULO PINTO NERY"
+  },
+  {
+    "key": 131,
+    "name": "LESTE - EM FRANCINETE ROCHA BRASIL"
+  },
+  {
+    "key": 132,
+    "name": "LESTE - EM FRANCISCO MAIA DE AMORIM"
+  },
+  {
+    "key": 133,
+    "name": "LESTE - EM GOVERNADOR DANILO DE MATOS AREOSA"
+  },
+  {
+    "key": 134,
+    "name": "LESTE - EM HELENA AUGUSTA WALCOTT"
+  },
+  {
+    "key": 135,
+    "name": "LESTE - EM JORGE AMADO"
+  },
+  {
+    "key": 136,
+    "name": "LESTE - EM JOSE GARCIA RODRIGUES"
+  },
+  {
+    "key": 137,
+    "name": "LESTE - EM LILI BENCHIMOL"
+  },
+  {
+    "key": 138,
+    "name": "LESTE - EM MOACIR ELIAS DE ARAÚJO"
+  },
+  {
+    "key": 139,
+    "name": "LESTE - EM PADRE JOÃO D'VIRES"
+  },
+  {
+    "key": 140,
+    "name": "LESTE - EM PROF ÁLVARO VALLE"
+  },
+  {
+    "key": 141,
+    "name": "LESTE - EM PROF ROBERTO DOS SANTOS VIEIRA"
+  },
+  {
+    "key": 142,
+    "name": "LESTE - EM PROF THEMISTOCLES PINHEIRO GADELHA"
+  },
+  {
+    "key": 143,
+    "name": "LESTE - EM PROFª ARIBALDINA DE LIMA BRITO"
+  },
+  {
+    "key": 144,
+    "name": "LESTE - EM PROFª EDINIR TELLES GUIMARÃES"
+  },
+  {
+    "key": 145,
+    "name": "LESTE - EM PROFª IGNÊS DE VASCONCELOS"
+  },
+  {
+    "key": 146,
+    "name": "LESTE - EM PROFª MARIA AUXILIADORA S AZEVEDO"
+  },
+  {
+    "key": 147,
+    "name": "LESTE - EM PROFª RAIMUNDA NONATA SOARES DE DEUS"
+  },
+  {
+    "key": 148,
+    "name": "LESTE - EM PROFª ZENAIRA BENTES MONTEIRO PASTOR"
+  },
+  {
+    "key": 149,
+    "name": "LESTE - EM ROSA SVERNER"
+  },
+  {
+    "key": 150,
+    "name": "LESTE - EM SÃO LUIZ"
+  },
+  {
+    "key": 151,
+    "name": "LESTE - EM SAO SEBASTIAO -URBANA"
+  },
+  {
+    "key": 152,
+    "name": "LESTE - EM VICENTE MENDONÇA JÚNIOR"
+  },
+  {
+    "key": 153,
+    "name": "LESTE - ESC MUL PINTOR CANDIDO PORTINARI"
+  },
+  {
+    "key": 154,
+    "name": "LESTE - ESCOLA MUNICIPAL ESMERALDO DOS SANTOS BESSA"
+  },
+  {
+    "key": 155,
+    "name": "LESTE - ESCOLA MUNICIPAL FREI MÁRIO MONACELLI DE GRELLO"
+  },
+  {
+    "key": 156,
+    "name": "LESTE - ESCOLA MUNICIPAL NOSSA SENHORA DAS GRAÇAS"
+  },
+  {
+    "key": 157,
+    "name": "NORTE - CMEI HELIODORO BALBI"
+  },
+  {
+    "key": 158,
+    "name": "NORTE - CMEI JAUARY GUIMARÃES DE SOUZA MARINHO"
+  },
+  {
+    "key": 159,
+    "name": "NORTE - CMEI PADRE CLAUDIO DALBON"
+  },
+  {
+    "key": 160,
+    "name": "NORTE - CMEI POETA ALVARES DE AZEVEDO"
+  },
+  {
+    "key": 161,
+    "name": "NORTE - CMEI PROFª ANALIA FRANCO"
+  },
+  {
+    "key": 162,
+    "name": "NORTE - CMEI PROFª MARIA RAIMUNDA"
+  },
+  {
+    "key": 163,
+    "name": "NORTE - CMEI PROFª SOFIA SOEIRO DO NASCIMENTO"
+  },
+  {
+    "key": 164,
+    "name": "NORTE - CRECHE MUNICIPAL EDITH MONTEIRO PORTO"
+  },
+  {
+    "key": 165,
+    "name": "NORTE - EM ANA SENA RODRIGUES"
+  },
+  {
+    "key": 166,
+    "name": "NORTE - EM ARQUITETA ANGELICA MARIA VIEIRA DA CRUZ"
+  },
+  {
+    "key": 167,
+    "name": "NORTE - EM BENJAMIN MATIAS FERNANDES"
+  },
+  {
+    "key": 168,
+    "name": "NORTE - EM DESEMBARGADOR OYAMA ITUASSU"
+  },
+  {
+    "key": 169,
+    "name": "NORTE - EM JORNALISTA SABA RAPOSO"
+  },
+  {
+    "key": 170,
+    "name": "NORTE - EM LUCILA FREITAS"
+  },
+  {
+    "key": 171,
+    "name": "NORTE - EM OLGA GUTMANN BENARIO"
+  },
+  {
+    "key": 172,
+    "name": "NORTE - EM PROFª ALEXANDRINA RODRIGUES BARROS"
+  },
+  {
+    "key": 173,
+    "name": "NORTE - EM PROFª ISABEL VICTORIA DO CARMO RIBEIRO"
+  },
+  {
+    "key": 174,
+    "name": "NORTE - EM PROFª MARIA AIME BEZERRA DE SOUZA"
+  },
+  {
+    "key": 175,
+    "name": "NORTE - EM PROFª MARLY BARBOSA GARGANTA"
+  },
+  {
+    "key": 176,
+    "name": "NORTE - EM PROFª RAIMUNDA ENEIDA CERQUINHO DA SILVA"
+  },
+  {
+    "key": 177,
+    "name": "NORTE - EM PROFª SÍLVIA HELENA COSTA DE OLIVEIRA BONETTI"
+  },
+  {
+    "key": 178,
+    "name": "NORTE - EM SÍRIA MAMED AMED CHAGAS"
+  },
+  {
+    "key": 179,
+    "name": "NORTE - ESC MUL PROFª ROSINA ARAUJO MOURA"
+  },
+  {
+    "key": 180,
+    "name": "OESTE - CMEI BLANDINO JOSE RIBEIRO"
+  },
+  {
+    "key": 181,
+    "name": "OESTE - CMEI DOM BOSCO"
+  },
+  {
+    "key": 182,
+    "name": "OESTE - CMEI HERMANN GMEINER"
+  },
+  {
+    "key": 183,
+    "name": "OESTE - CMEI MADRE ELISIA"
+  },
+  {
+    "key": 184,
+    "name": "OESTE - CMEI MARY ASSAYAG HANNAN"
+  },
+  {
+    "key": 185,
+    "name": "OESTE - CMEI NILZA DE MELO GODOY"
+  },
+  {
+    "key": 186,
+    "name": "OESTE - CMEI NOSSA SENHORA DA BOA ESPERANÇA"
+  },
+  {
+    "key": 187,
+    "name": "OESTE - CMEI NOSSA SENHORA DA PAZ"
+  },
+  {
+    "key": 188,
+    "name": "OESTE - CMEI PROFª ELZA DAMASCENO DA SILVA"
+  },
+  {
+    "key": 189,
+    "name": "OESTE - CMEI RAIMUNDO NONATO DE AGUIAR"
+  },
+  {
+    "key": 190,
+    "name": "OESTE - CMEI RAQUEL DE QUEIROZ"
+  },
+  {
+    "key": 191,
+    "name": "OESTE - CMEI ROMUALDO RUBIM"
+  },
+  {
+    "key": 192,
+    "name": "OESTE - CMEI SENADOR ALVARO BOTELHO MAIA"
+  },
+  {
+    "key": 193,
+    "name": "OESTE - CRECHE MUNICIPAL ANA LOPES PEREIRA"
+  },
+  {
+    "key": 194,
+    "name": "OESTE - CRECHE MUNICIPAL GABRIEL CORREA PEDROSA"
+  },
+  {
+    "key": 195,
+    "name": "OESTE - EM ANTONIA MEDEIROS DA SILVA"
+  },
+  {
+    "key": 196,
+    "name": "OESTE - EM DOMINGOS SÁVIO"
+  },
+  {
+    "key": 197,
+    "name": "OESTE - EM FIRME NA FE"
+  },
+  {
+    "key": 198,
+    "name": "OESTE - EM MARIA FERNANDES"
+  },
+  {
+    "key": 199,
+    "name": "OESTE - EM MARIA MADALENA CORREA"
+  },
+  {
+    "key": 200,
+    "name": "OESTE - EM MINISTRO MARIO ANDREAZZA"
+  },
+  {
+    "key": 201,
+    "name": "OESTE - EM NOSSA SENHORA DA PAZ- URBANA"
+  },
+  {
+    "key": 202,
+    "name": "OESTE - EM PROF ALBERTO MAKAREN"
+  },
+  {
+    "key": 203,
+    "name": "OESTE - EM PROF JOAQUIM GONZAGA PINHEIRO"
+  },
+  {
+    "key": 204,
+    "name": "OESTE - EM PROFª ANA CRISTINA AQUINO DE MELO"
+  },
+  {
+    "key": 205,
+    "name": "OESTE - EM PROFª DALVINA SILVA DE OLIVEIRA"
+  },
+  {
+    "key": 206,
+    "name": "OESTE - EM SANTO AGOSTINHO"
+  },
+  {
+    "key": 207,
+    "name": "OESTE - EM SÃO DIMAS"
+  },
+  {
+    "key": 208,
+    "name": "OESTE - EM SAO JOAO"
+  },
+  {
+    "key": 209,
+    "name": "OESTE - EM SAO VICENTE DE PAULA"
+  },
+  {
+    "key": 210,
+    "name": "OESTE - EM SENADOR FABIO PEREIRA DE LUCENA BITTENCOURT"
+  },
+  {
+    "key": 211,
+    "name": "OESTE - ESCOLA MUNICIPAL PAULA FRASSINETTI"
+  },
+  {
+    "key": 212,
+    "name": "OESTE - PRÉ-ESCOLAR MARÍLIA BARBOSA"
+  },
+  {
+    "key": 213,
+    "name": "OESTE - PRÉ-ESCOLAR ZEZE PIO DE SOUZA"
+  },
+  {
+    "key": 214,
+    "name": "LESTE - EM FRANCISCO COELHO"
+  },
+  {
+    "key": 215,
+    "name": "NORTE - EM PROFª MARIA LEIDE AMORIM"
+  },
+  {
+    "key": 216,
+    "name": "OESTE - EM PROFª TEREZA CORDOVIL GUIMARÃES"
+  },
+  {
+    "key": 217,
+    "name": "RURAL - EM ABILIO ALENCAR"
+  },
+  {
+    "key": 218,
+    "name": "RURAL - EM ARTHUR VIRGÍLIO FILHO"
+  },
+  {
+    "key": 219,
+    "name": "RURAL - EM CARLOS ANTONIO CARDOSO"
+  },
+  {
+    "key": 220,
+    "name": "RURAL - EM CARLOS SANTOS"
+  },
+  {
+    "key": 221,
+    "name": "RURAL - EM IVAN JÚNIOR SARAIVA DE BARROS"
+  },
+  {
+    "key": 222,
+    "name": "RURAL - EM JOSE SOBREIRA DO NASCIMENTO"
+  },
+  {
+    "key": 223,
+    "name": "RURAL - EM OUVIDOR SAMPAIO"
+  },
+  {
+    "key": 224,
+    "name": "RURAL - EM PROFª MARIA ISABEL CORDEIRO MELGUEIRO"
+  },
+  {
+    "key": 225,
+    "name": "RURAL - EM PROFª NEUZA DOS SANTOS RIBEIRO"
+  },
+  {
+    "key": 226,
+    "name": "RURAL - EM PROFESSORA ELIZABETH SIQUEIRA FERREIRA"
+  },
+  {
+    "key": 227,
+    "name": "RURAL - EM RUI BARBOSA"
+  },
+  {
+    "key": 228,
+    "name": "RURAL - EM SAO JOSE I"
+  },
+  {
+    "key": 229,
+    "name": "RURAL - EM SÃO SEBASTIÃO II"
+  },
+  {
+    "key": 230,
+    "name": "RURAL - ESC INDÍGENA ARU WAIMI"
+  },
+  {
+    "key": 231,
+    "name": "RURAL - ESCOLA RAINHA DOS APÓSTOLOS"
+  },
+  {
+    "key": 232,
+    "name": "SUL - CMEI CECILIA CABRAL"
+  },
+  {
+    "key": 233,
+    "name": "SUL - CMEI DALVA MARIA COSTA E SILVA"
+  },
+  {
+    "key": 234,
+    "name": "SUL - CMEI DOUTOR FERNANDO TRIGUEIRO"
+  },
+  {
+    "key": 235,
+    "name": "SUL - CMEI GUSTAVO CAPANEMA"
+  },
+  {
+    "key": 236,
+    "name": "SUL - CMEI JOÃO BARBOSA"
+  },
+  {
+    "key": 237,
+    "name": "SUL - CMEI JURACY FREITAS MACIEL"
+  },
+  {
+    "key": 238,
+    "name": "SUL - CMEI OLAVO BILAC"
+  },
+  {
+    "key": 239,
+    "name": "SUL - CMEI PROF ESCRITOR PAULINHO DE BRITO"
+  },
+  {
+    "key": 240,
+    "name": "SUL - CMEI PROFª ODETE DE ARAÚJO PUGA BARBOSA"
+  },
+  {
+    "key": 241,
+    "name": "SUL - CMEI VIOLETA BRANCA M. DE OLIVEIRA"
+  },
+  {
+    "key": 242,
+    "name": "SUL - CRECHE MUL MAGDALENA ARCE DAOU"
+  },
+  {
+    "key": 243,
+    "name": "SUL - CRECHE MUNICIPAL PROFESSORA LUZENIR FARIAS LOPES"
+  },
+  {
+    "key": 244,
+    "name": "SUL - EM AMINE DAOU LINDOSO"
+  },
+  {
+    "key": 245,
+    "name": "SUL - EM DR SERGIO ALFREDO PESSOA FIGUEIREDO"
+  },
+  {
+    "key": 246,
+    "name": "SUL - EM ESCRITOR ERASMO DO AMARAL LINHARES"
+  },
+  {
+    "key": 247,
+    "name": "SUL - EM ESCRITORA NISIA FLORESTA BRASILEIRA AUGUSTA"
+  },
+  {
+    "key": 248,
+    "name": "SUL - EM HAHNEMANN BACELAR"
+  },
+  {
+    "key": 249,
+    "name": "SUL - EM IRMA DULCE"
+  },
+  {
+    "key": 250,
+    "name": "SUL - EM IRMA EDELVIRA ESMERALDA DE SOUTO CABRAL"
+  },
+  {
+    "key": 251,
+    "name": "SUL - EM JOÃO VALENTE"
+  },
+  {
+    "key": 252,
+    "name": "SUL - EM JOAQUIM DA SILVA PINTO"
+  },
+  {
+    "key": 253,
+    "name": "SUL - EM LORIS CORDOVIL"
+  },
+  {
+    "key": 254,
+    "name": "SUL - EM OSVALDO SOBREIRA"
+  },
+  {
+    "key": 255,
+    "name": "SUL - EM PROFª MARIA JOSÉ NUNES DA LUZ"
+  },
+  {
+    "key": 256,
+    "name": "SUL - EM PROFª MARTINHA CORREA DOS SANTOS"
+  },
+  {
+    "key": 257,
+    "name": "SUL - EM THOMAS MEIRELLES"
+  },
+  {
+    "key": 258,
+    "name": "SUL - EM VILLA LOBOS"
+  },
+  {
+    "key": 259,
+    "name": "SUL - EM WALDIR GARCIA"
+  },
+  {
+    "key": 260,
+    "name": "SUL - JD DA INFANCIA CASA DA CRIANÇA"
+  },
+  {
+    "key": 261,
+    "name": "SUL - PRÉ-ESCOLAR INFANTE TIRADENTES PETROPÓLIS"
+  }
+]
